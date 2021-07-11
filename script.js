@@ -51,3 +51,12 @@
 // console.log(newd);
 
 // thirdDiv.setAttribute("contenteditable", "true");
+
+//getAttribute
+// const div = document.querySelector("div");
+
+// console.log(div.getAttribute("class"));
+// div.setAttribute("contenteditable", "true");
+// div.getAttribute("contenteditable");
+// ///removeAttribute()
+// div.removeAttribute("contenteditable");
