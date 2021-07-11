@@ -60,3 +60,19 @@
 // div.getAttribute("contenteditable");
 // ///removeAttribute()
 // div.removeAttribute("contenteditable");
+
+////addEventListener()
+
+// const firstName = document.getElementById("first-name");
+// const lastName = document.getElementById("last-name");
+// const button = document.getElementById("button");
+// button.addEventListener("click", function () {
+//   //   const name = input;
+//   alert(`Hi ${firstName.value} ${lastName.value}`);
+// });
+
+// const alertButton = document.getElementById("alert");
+// alertButton.onclick(foo());
+// function foo() {
+//   alert("Hello");
+// }
